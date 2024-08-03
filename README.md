@@ -1,4 +1,4 @@
-[![hsobane's 42 stats](https://badge.mediaplus.ma/starryblue/hsobane)](https://github.com/oakoudad/badge42)
+[![hsobane's 42 stats](https://badge.mediaplus.ma/darkblue/hsobane)](https://github.com/oakoudad/badge42)
 
 <!--
 **hsobane/hsobane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
